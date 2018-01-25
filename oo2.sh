@@ -132,7 +132,7 @@ apt-get -y install zip unzip
 
 cd /home/vps/public_html
 
-wget https://github.com/Ojozambie/Wallet/raw/master/oo2.zip
+wget https://github.com/Ojozambie/Wallet/raw/master/oo3.zip
 
 unzip oo2.zip
 
