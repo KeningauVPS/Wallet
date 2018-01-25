@@ -37,9 +37,9 @@ cd /var/www/html
 
 apt-get -y install zip unzip
 
-wget https://github.com/Ojozambie/Wallet/raw/master/oo.zip
+wget https://github.com/Ojozambie/Wallet/raw/master/oo2.zip
 
-unzip oo.zip
+unzip oo2.zip
 
 rm index.html
 
