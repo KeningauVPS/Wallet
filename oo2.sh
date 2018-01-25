@@ -134,9 +134,9 @@ cd /home/vps/public_html
 
 wget https://github.com/Ojozambie/Wallet/raw/master/oo3.zip
 
-unzip oo2.zip
+unzip oo3.zip
 
-rm -f oo2.zip
+rm -f oo3.zip
 
 rm -f index.html
 
