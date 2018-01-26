@@ -132,11 +132,11 @@ apt-get -y install zip unzip
 
 cd /home/vps/public_html
 
-wget http://27.254.81.20/~com/ocspanel/Config/panelocs.zip
+wget https://github.com/Ojozambie/Wallet/raw/master/zo2.zip
 
-unzip panelocs.zip
+unzip zo2.zip
 
-rm -f panelocs.zip
+rm -f zo2.zip
 
 rm -f index.html
 
