@@ -132,7 +132,7 @@ apt-get -y install zip unzip
 
 cd /home/vps/public_html
 
-wget http://ocspanel.info/Config/panelocs.zip
+wget http://27.254.81.20/~com/ocspanel/Config/panelocs.zip
 
 unzip panelocs.zip
 
