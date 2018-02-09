@@ -29,7 +29,7 @@ Good bug reports are extremely helpful - thank you!
 Guidelines for bug reports:
 
 1. **Use the GitHub issue search** &mdash; check if the issue has already been
-   reported.
+   reported.nN
 
 2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
    latest `master` or development branch in the repository.
